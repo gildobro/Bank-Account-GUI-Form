@@ -1,0 +1,11 @@
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\bin\Debug\AdvancedOOP_Lab5(working).exe.config
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\bin\Debug\AdvancedOOP_Lab5(working).exe
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\bin\Debug\AdvancedOOP_Lab5(working).pdb
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5(working).csproj.AssemblyReference.cache
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5_working_.Form1.resources
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5_working_.Properties.Resources.resources
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5(working).csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5(working).csproj.CoreCompileInputs.cache
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5(working).exe
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5(working).pdb
+C:\Users\Gil\source\repos\AdvancedOOP_Lab5(working)\AdvancedOOP_Lab5(working)\obj\Debug\AdvancedOOP_Lab5_working_.ReportForm.resources
